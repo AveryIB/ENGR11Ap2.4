@@ -6,7 +6,7 @@
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
 
-<script> 
+<script src=“scripts.js”> 
   let slideIndex = 1;
   showSlides(slideIndex);
   

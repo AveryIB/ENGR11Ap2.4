@@ -1,3 +1,4 @@
+<script src=“scripts.js”> 
 /*!
 * Start Bootstrap - Bare v5.0.9 (https://startbootstrap.com/template/bare)
 * Copyright 2013-2023 Start Bootstrap
@@ -5,8 +6,7 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
-
-<script src=“scripts.js”> 
+ 
   let slideIndex = 1;
   showSlides(slideIndex);
   

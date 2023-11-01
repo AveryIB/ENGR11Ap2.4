@@ -10902,12 +10902,12 @@ textarea.form-control-lg {
 }
 
 /* Fading animation */
-.fade {
-  animation-name: fade;
+.engrfade {
+  animation-name: engrfade;
   animation-duration: 1.5s;
 }
 
-@keyframes fade {
+@keyframes engrfade {
   from {opacity: .4}
   to {opacity: 1}
 }
